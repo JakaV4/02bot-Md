@@ -28,7 +28,7 @@
 
 ```bash
 git clone https://github.com/JakaV4/02bot-Md.git
-cd Family-MD
+cd 02bot-Md
 npm i
 node .
 ```
@@ -46,7 +46,7 @@ $ pkg install ffmpeg
 $ pkg install nodejs-lts
 $ pkg install git
 $ git clone https://github.com/JakaV4/02bot-Md.git
-$ cd Family-MD
+$ cd 02bot-Md
 $ npm i
 $ node .
 ```
